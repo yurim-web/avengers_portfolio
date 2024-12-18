@@ -1,0 +1,11 @@
+body {
+  background-color: #030514;
+  width: 100vw;
+
+  color: white;
+}
+section {
+  width: 100%;
+  max-width: 1040px;
+  margin: 0 auto;
+}

@@ -1,0 +1,28 @@
+.section_3 {
+  padding: 200px 0px;
+}
+
+.container_3 {
+  display: flex;
+  flex-direction: column;
+  font-size: 40px;
+  font-weight: 300;
+  width: 90%;
+  margin: 0 auto;
+  line-height: 1.6;
+}
+
+.container_3 > p {
+  color: #21d3d3;
+  font-size: 60px;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+.textbox_2 {
+  display: flex;
+  gap: 40px;
+}
+.text {
+  transform: translateY(60px);
+  opacity: 0;
+}

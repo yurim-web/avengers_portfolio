@@ -1,0 +1,18 @@
+header {
+  align-items: center;
+  padding: 30px 0px;
+  display: flex;
+  justify-content: space-between;
+  font-size: 30px;
+  font-weight: 700;
+  max-width: 1040px;
+  margin: 0 auto;
+}
+.menu {
+  font-size: 20px;
+  font-weight: 300;
+}
+
+.menu > span {
+  padding: 10px;
+}

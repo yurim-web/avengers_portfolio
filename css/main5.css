@@ -1,0 +1,29 @@
+.youtube {
+  width: 100%;
+  height: 500px;
+}
+
+.section_5 {
+  width: 100%;
+  height: 100%;
+  padding: 200px 0px 150px 0px;
+}
+
+.section_6 {
+  padding: 100px 0px 200px 0px;
+  font-size: 60px;
+}
+
+.section_6 > img {
+  width: 300px;
+}
+.container_5 {
+  font-weight: 700;
+  text-align: center;
+  display: flex;
+  gap: 5px;
+  margin: 0 auto;
+  align-items: center;
+  opacity: 0;
+  transform: translateY(150px);
+}
